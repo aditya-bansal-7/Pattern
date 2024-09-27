@@ -19,7 +19,7 @@ n = 5
 ```
 
 
-## Priramid Two Way Arrow
+## Pyramid Two Way Arrow
 
 ```
 n = 5
