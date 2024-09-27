@@ -22,6 +22,7 @@ n = 5
 ## Priramid Two Way Arrow
 
 ```
+n = 5
      @
     @@@
    @@@@@
